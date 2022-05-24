@@ -18,7 +18,7 @@ Purpose: Introduction to Internet and Communication of Servers and Clients
 
 # Progressions
 
-### Download and install following applications (See Mr. Mercer for teaching versions)
+#### Download and install following applications (See Mr. Mercer for teaching versions)
 
 ---
 
