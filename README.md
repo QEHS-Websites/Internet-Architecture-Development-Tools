@@ -1,8 +1,6 @@
 # Internet Architecture Development Tools
 Introductory Websites
 
-**UNDERCONSTRUCTION** Until 20220701
-
 Purpose: Introduction to Internet and Communication of Servers and Clients
 - Introduction to Simple Networking Tools to Map Internet
 - Introduction to GitHub Hosting and Development Tools
@@ -13,6 +11,20 @@ Purpose: Introduction to Internet and Communication of Servers and Clients
 - **GitHub Desktop**- Version Control Tool
 - **Atom.io**- WYSIWYG (Teaching Choice)
 - **Processing-Java**- Computer Apps, Android sideloading, Visual Data, Looks like other Languages
+
+---
+
+**UNDERCONSTRUCTION** Until 20220701
+
+Sections (Copy to all New Repos)
+- Introduction
+- Questions
+- Expectations
+- Instructions, Vocabulary, and Explanations (including URLs and IDE Use)
+- Code or Blocks of Code Emphasized (including parameters)
+- Gamification or Rubric or Points
+- Additional Information to Answer Questions
+- Extensions
 
 ---
 
@@ -145,6 +157,17 @@ Note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/
 ### Describe what your Computer Station Looks like
 - See Google Classroom Question above
 
+- Google Classroom Question: Describe the following
+  - Physical Workstation, number of monitors: ???
+  - Browser: ???
+  - WISYWIG: ??? (Installed and Opened, YES or NO)
+  - Processing installed to C-Drive / Parent Folder
+  - Communication Tool (Schoolzone / GMail): ???
+  - Cyber Security Tool(s): ??? (Have I been Pwnd, Badrap, Chrome Password Extension, KeePass, other)
+  - GitHub Account and GitHub Desktop (substitutes for Git in CMD, much easier to use)
+
+- Google Classroom Question: "What do you want to accomplish this semester?"
+
 ### Additional Notes
 Brief Overview of "Where Files Live"
 - How do I submit live websites and social media (GitHub)?
@@ -157,15 +180,5 @@ Google Classroom Questions
 ---
 
 # To Include
-
-Sections (Copy to all New Repos)
-- Introduction
-- Questions
-- Expectations
-- Instructions, Vocabulary, and Explanations (including URLs and IDE Use)
-- Code or Blocks of Code Emphasized (including parameters)
-- Gamification or Rubric or Points
-- Additional Information to Answer Questions
-- Extensions
 
 ---
