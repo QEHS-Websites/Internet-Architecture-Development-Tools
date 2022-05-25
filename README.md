@@ -136,6 +136,24 @@ TCP/IP & OSI Models: IP Socket is main goal
   - TightVNC, Real VNC
   - Note: review main ports, public & static, public and variable, variable
 
+Note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/
+
+---
+
+# Movement of Information through the Internet using Sockets
+
+### Describe what your Computer Station Looks like
+- See Google Classroom Question above
+
+### Additional Notes
+Brief Overview of "Where Files Live"
+- How do I submit live websites and social media (GitHub)?
+- Most recent: C-Drive (Documents / GitHub)
+- Final Copies: Server of GitHub (requires updating regularly)
+
+Google Classroom Questions
+- Create current description of internet using Internet Tools and Tools for Hosting & Maintaining Website
+
 ---
 
 # To Include
@@ -149,36 +167,5 @@ Sections (Copy to all New Repos)
 - Gamification or Rubric or Points
 - Additional Information to Answer Questions
 - Extensions
-
-Brief Overview of "Where Files Live"
-- How do I submit live websites and social media (GitHub)?
-- Most recent: C-Drive (Documents / GitHub)
-- Final Copies: Server of GitHub (requires updating regularly)
-
-Google Classroom Questions
-- Create current description of internet using Internet Tools and Tools for Hosting & Maintaining Website
-
-
-See: https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-the-internet-and-web-documents-with-small-actives-to-illustrate
-
----
-
-- (CSS1) Explore architecture of Internet
-
-
-  Illustrate requests of Internet: "all at once" (Netflix), packets (checked)
-    - DNS
-    - Pathways
-    - Browser
-    - EMail Server
-    - Print Server
-  Command Examples
-    - - /? | ?
-    - ping
-    - traceroute
-    - nslookup
-	(note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/)
-
-
 
 ---
