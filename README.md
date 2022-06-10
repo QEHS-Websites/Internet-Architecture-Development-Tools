@@ -99,6 +99,12 @@ Introductions to a Browser - Specifically Google Chrome (and other exist)
    - Windows, Folders, and Pathways
    - The difference between `/` & `\`
 
+Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
+- **Reading Hint**: notice the difference between `/` & `\`
+- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
+- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
+- Instructions: File / Save
+
 3. Pathways outside a computer: URLs in name or number
    - Learning how to read URLs
    - Local Scripting: see example of Browser Notepad
