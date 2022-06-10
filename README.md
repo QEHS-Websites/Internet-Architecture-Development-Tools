@@ -9,22 +9,8 @@ Purpose: Introduction to Internet and Communication of Servers and Clients
 - **GitHub Repositories**- Teaching, Feedback, Grading, and other tools usage (Social Media)
 - **Chrome Browser**- consistent with EPSB SchoolZone and other EPSB Tools
 - **GitHub Desktop**- Version Control Tool
-- **Atom.io**- WYSIWYG (Teaching Choice)
+- **Visual Studio Code**- WYSIWYG (Teaching Choice), see https://code.visualstudio.com/
 - **Processing-Java**- Computer Apps, Android sideloading, Visual Data, Looks like other Languages
-
----
-
-**UNDERCONSTRUCTION** Until 20220701
-
-Sections (Copy to all New Repos)
-- Introduction
-- Questions
-- Expectations
-- Instructions, Vocabulary, and Explanations (including URLs and IDE Use)
-- Code or Blocks of Code Emphasized (including parameters)
-- Gamification or Rubric or Points
-- Additional Information to Answer Questions
-- Extensions
 
 ---
 
@@ -43,19 +29,21 @@ See: https://github.com/MercersKitchen/Creating-a-GitHub-Repository
 
 Create all Website Repositories, Case Studies will follow
 - Learning HTML Website
-- Promotions Website
+- Promotions Website (for Drawing App and Music App)
 
 ### Download and install following applications (See Mr. Mercer for teaching versions)
+- Ensure Chrome is updated
+- If using another browser, student is responsible for everything
 
 #### GitHub Desktop
 - Follow link when opening Repository
 
-#### Atom.io(Teaching Choice)
-- able to choice another WYSIWYG, but will be students responsibility
-- Atom.io is a give installation, give it a while without using bandwidth
-- Sometimes other programs interfere with it and simply needs to be reinstalled
+#### Microsoft Visual Code Studio (Teaching Choice)
+- see https://code.visualstudio.com/
+- able to choose another WYSIWYG, but will be students responsibility for using it (Mr. Mercer will not be teaching with it or supporting it's use)
+- add Code Spell Checker (View / Extensions / Search and Install)
 
-### Google Classroom Question 1: See Next Activities
+### Google Classroom Question 1: See Next Activities below for more details
 - Draw block diagram of main types of Internet Devices
 - Overlay with GitHub Hosting, Version Control, and Tools
   - How do you believe GitHub Desktop Interactions updates repositories and Hosted Websites (i.e. server side, not locally hosted)
@@ -69,7 +57,7 @@ What does your physical workstation look like?
 Name the following
 - Are you using multiple displays?
 - Do you use the Vanilla CMD Window, PowerShell, or something else?
-- Which WYSIWYG do you use (i.e. Atom.io is used as a teaching tool)?
+- Which WYSIWYG do you use (i.e. Visual Code Studio is used as a teaching tool)?
 - Which Browser to you use?
 - Describe your 3 favorite settings?
 
@@ -118,6 +106,7 @@ Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become 
 - Include all vocabulary
 - Main Vocabulary for Client-server relationships of Real (MAC) Addressing and Logical Addressing
   - workstations & NIC Cards (real MAC Address)
+  - Sockets: IP Address and Port Numbers
   - stub networks (defined by 1 workstation & switch or 1 workstation & router)
   - LANs defined by switch
   - WANs defined by router (edge router)
