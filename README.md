@@ -2,7 +2,7 @@
 Introductory Websites
 
 Purpose: Introduction to Internet and Communication of Servers and Clients
-- Introduction to Simple Networking Tools to Map Internet
+- Introduction to Simple Networking Tools and Mapping the Internet
 - Introduction to GitHub Hosting and Development Tools
 
 *Lessons will employ:*
@@ -14,8 +14,8 @@ Purpose: Introduction to Internet and Communication of Servers and Clients
 
 ---
 
-# Progressions
-- Computer Environment
+# Setting "Stuff" Up
+- Computer Environment: how will you see all the displays needed for building a website (all controlled by sockets (IP Address & Port Number) )
 - Internet & Web Documents, <a href="">Click Here When Available</a>
 
 ### Ensure GitHub Account Created and *Hello World* Repository accessible
@@ -43,31 +43,14 @@ Create all Website Repositories, Case Studies will follow
 - able to choose another WYSIWYG, but will be students responsibility for using it (Mr. Mercer will not be teaching with it or supporting it's use)
 - add Code Spell Checker (View / Extensions / Search and Install)
 
-### Google Classroom Question 1: See Next Activities below for more details
-- Draw block diagram of main types of Internet Devices
-- Overlay with GitHub Hosting, Version Control, and Tools
-  - How do you believe GitHub Desktop Interactions updates repositories and Hosted Websites (i.e. server side, not locally hosted)
-- Include Sockets as bit of information to transfer (and all previous bits on TCP/IP Model Stack)
-
-Teacher Note: use Computer-forward-slash instructions to summarized what we found
-
-### Google Classroom Question 2: Should be completed after downloads are completed and installed
-What does your physical workstation look like?
-
-Name the following
-- Are you using multiple displays?
-- Do you use the Vanilla CMD Window, PowerShell, or something else?
-- Which WYSIWYG do you use (i.e. Visual Code Studio is used as a teaching tool)?
-- Which Browser to you use?
-- Describe your 3 favorite settings?
-
 ---
 
 # Introduction to the Internet & Web Documents (with small activities to illustrate)
+- Browser
+- Internet Devices (switches, routers, etc ... the stuff we all just presume simply works )
 
-### Small Activities to illustrate tools and skills
+### Introductions to a Browser - Specifically Google Chrome (and other exist)
 
-Introductions to a Browser - Specifically Google Chrome (and other exist)
 1. "What else can a browser do?"
    - https://www.makeuseof.com/tag/use-browser-notepad/, accessed 20180905
    - A Browser can be a notepad tool, as long as the tab stays open
@@ -87,11 +70,11 @@ Introductions to a Browser - Specifically Google Chrome (and other exist)
    - Windows, Folders, and Pathways
    - The difference between `/` & `\`
 
-Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
-- **Reading Hint**: notice the difference between `/` & `\`
-- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
-- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
-- Instructions: File / Save
+  Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
+    - **Reading Hint**: notice the difference between `/` & `\`
+    - Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
+    - URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
+    - Instructions: File / Save
 
 3. Pathways outside a computer: URLs in name or number
    - Learning how to read URLs
@@ -149,21 +132,35 @@ Note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/
 
 # Movement of Information through the Internet using Sockets
 
-### Describe what your Computer Station Looks like
-- See Google Classroom Question above
+#### Google Classroom Question 1
+- Students submit this through Google Classroom Assignments
 
-- Google Classroom Question: Describe the following
-  - Physical Workstation, number of monitors: ???
-  - Browser: ???
-  - WISYWIG: ??? (Installed and Opened, YES or NO)
-  - Processing installed to C-Drive / Parent Folder
-  - Communication Tool (Schoolzone / GMail): ???
-  - Cyber Security Tool(s): ??? (Have I been Pwnd, Badrap, Chrome Password Extension, KeePass, other)
-  - GitHub Account and GitHub Desktop (substitutes for Git in CMD, much easier to use)
+What does your physical workstation look like?
+- Take an Image
+- Draw a Picture
 
-- Google Classroom Question: "What do you want to accomplish this semester?"
+Your image or drawing should answer the following questions
+- Are you using multiple displays?
+- Do you use the Vanilla CMD Window, PowerShell, or something else?
+- Which WYSIWYG do you use (i.e. Visual Code Studio is used as a teaching tool)?
+- Which Browser to you use?
+- Describe your 3 favorite settings (Operating System, Browser, Visual Code Studio, or GitHub)? If these are all new to you, simply illustrate 3 settings.
+- Communication Tool (Schoolzone / GMail / other social media): ???
+- Cyber Security Tool(s): ??? (Have I been Pwnd, Badrap, Chrome Password Extension, KeePass, other)
 
-### Additional Notes
+---
+
+#### Google Classroom Question 2
+- Draw block diagram of main types of Internet Devices
+- Overlay with GitHub Hosting, Version Control, and Tools
+  - How do you believe GitHub Desktop Interactions updates repositories and Hosted Websites (i.e. server side, not locally hosted)
+- Include Sockets as bit of information to transfer (and all previous bits on TCP/IP Model Stack)
+
+Teacher Note: use Computer-forward-slash instructions to summarized what we found
+
+---
+
+# Additional Notes
 Brief Overview of "Where Files Live"
 - How do I submit live websites and social media (GitHub)?
 - Most recent: C-Drive (Documents / GitHub)
@@ -177,3 +174,5 @@ Google Classroom Questions
 # To Include
 
 ---
+
+
