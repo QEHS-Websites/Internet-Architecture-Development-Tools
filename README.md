@@ -161,7 +161,7 @@ Your image or drawing should answer the following questions
 ---
 
 #### Google Classroom Question 2
-- Draw block diagram of main types of Internet Devices
+- Draw <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#flow-chart-symbols">block diagram</a> of main types of Internet Devices
 - Overlay with GitHub Hosting, Version Control, and Tools
   - How do you believe GitHub Desktop Interactions updates repositories and Hosted Websites (i.e. server side, not locally hosted)
 - Include Sockets as bit of information to transfer (and all previous bits on TCP/IP Model Stack)
