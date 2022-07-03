@@ -17,6 +17,14 @@ Purpose: Introduction to Internet and Communication of Servers and Clients
 # Quick Link, what is the assignment details
 
 <a href="https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools#movement-of-information-through-the-internet-using-sockets">Click Here</a>
+
+Vocabulary Words to Attend to 
+- Port: specific to tool being used (for GitHub Server connection, always GitHub Desktop, uses protected passwords to authenticate)
+- NIC Card, MAC Address, or SID
+- IP Address of host domain (Edmonton Public Schools & note, switches and intranet routers can be ignored)
+- IP Address of GitHub Server (or any server, even Cisco as demonstrated in the classroom)
+- Place of GitHub Server (or any server, even Cisco as demonstrated in the classroom)
+
 ---
 
 # Setting "Stuff" Up
