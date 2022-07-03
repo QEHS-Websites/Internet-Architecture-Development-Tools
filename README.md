@@ -66,15 +66,11 @@ Create all Website Repositories, Case Studies will follow
    - Google will spell check all the typing
    - If Chrome saves tabs (in settings, "Start where you left off"), or you use Workona, Tab will remain ready for notes but typing will disappear
 
-2. Pathways inside a computer
+2. Pathways inside a computer or to servers ("Where do Files Live?")
    - Windows, Folders, and Pathways
    - The difference between `/` & `\`
-
-Note about Pathways and URL's (Internet HTTP & HTTPS): all students will become familiar with ways of noting "Where does my file live?"
-- **Reading Hint**: notice the difference between `/` & `\`
-- Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
-- URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
-- Instructions: File / Save
+   - Pathway Exemplar: `C:\Users\mmercer\Documents\GitHub\Hello-World\exemplarHelloWorld`
+   - URL Exemplar: https://github.com/Intro-CS-App-Dev-and-Deploy/Hello-World
 
 3. Pathways outside a computer: URLs in name or number
    - Learning how to read URLs
