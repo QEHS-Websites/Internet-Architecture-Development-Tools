@@ -14,6 +14,11 @@ Purpose: Introduction to Internet and Communication of Servers and Clients
 
 ---
 
+# Quick Link, what is the assignment details
+
+<a href="https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools#movement-of-information-through-the-internet-using-sockets">Click Here</a>
+---
+
 # Setting "Stuff" Up
 - Computer Environment: how will you see all the displays needed for building a website (all controlled by sockets (IP Address & Port Number) )
 - Internet & Web Documents, <a href="">Click Here When Available</a>
@@ -107,7 +112,7 @@ Create all Website Repositories, Case Studies will follow
     - Note: https://www.cloudns.net/blog/10-most-used-nslookup-commands/, accessed 20201110
   - traceroute | tracert [use IP Address], for example 72.163.4.185
 
-- additional command: whoamI
+- additional command: `whoamI` or `whoamI -all`
 - usually a login credential (no password)
 
 #### Extra and Related Activities, if available
@@ -154,17 +159,6 @@ Your image or drawing should answer the following questions
 - Include Sockets as bit of information to transfer (and all previous bits on TCP/IP Model Stack)
 
 Teacher Note: use Computer-forward-slash instructions to summarized what we found
-
----
-
-# Additional Notes
-Brief Overview of "Where Files Live"
-- How do I submit live websites and social media (GitHub)?
-- Most recent: C-Drive (Documents / GitHub)
-- Final Copies: Server of GitHub (requires updating regularly)
-
-Google Classroom Questions
-- Create current description of internet using Internet Tools and Tools for Hosting & Maintaining Website
 
 ---
 
