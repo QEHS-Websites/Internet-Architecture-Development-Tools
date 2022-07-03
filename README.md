@@ -82,6 +82,7 @@ Create all Website Repositories, Case Studies will follow
 ### Exploring & Illustrating Internet and Web Docs Architecture
 - Main Skill Goal: Using CMD through Windows to sending "Packets" or Internet Messages
 - Main Concept Goal: diagram image of Internet Architecture (Google Draw, Paper and Pencil, other methods)
+  - Symbols of a  Block Diagram: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects#flow-chart-symbols
 - Include all vocabulary
 - Main Vocabulary for Client-server relationships of Real (MAC) Addressing and Logical Addressing
   - workstations & NIC Cards (real MAC Address)
