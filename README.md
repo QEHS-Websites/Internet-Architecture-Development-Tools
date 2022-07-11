@@ -172,6 +172,10 @@ Teacher Note: use Computer-forward-slash instructions to summarized what we foun
 
 # To Include
 
+When explaining how information travels through the Internet, use a layered metaphor for adding the socket
+- Add IP Address, keep origonating with port
+- A router will know how to get to the intended IP (might have a choice of 3 routers, will choose the least busy)
+
 ---
 
 
