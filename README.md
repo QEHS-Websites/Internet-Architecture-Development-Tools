@@ -1,7 +1,7 @@
 # Internet Architecture Development Tools
 Introductory Websites
 
-*UNDER CONSTRUCTION*
+*UNDER CONSTRUCTION*: see below
 
 Purpose: Introduction to Internet and Communication of Servers and Clients
 - Introduction to Simple Networking Tools and Mapping the Internet
