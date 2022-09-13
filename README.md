@@ -1,6 +1,8 @@
 # Internet Architecture Development Tools
 Introductory Websites
 
+*UNDER CONSTRUCTION*
+
 Purpose: Introduction to Internet and Communication of Servers and Clients
 - Introduction to Simple Networking Tools and Mapping the Internet
 - Introduction to GitHub Hosting and Development Tools
@@ -172,10 +174,48 @@ Teacher Note: use Computer-forward-slash instructions to summarized what we foun
 
 # To Include
 
-When explaining how information travels through the Internet, use a layered metaphor for adding the socket
-- Add IP Address, keep origonating with port
-- A router will know how to get to the intended IP (might have a choice of 3 routers, will choose the least busy)
+Better Lesson
+
+Purpose: learning how to read Pathways and URLs & finding out where these are physically located
+- Pathways are important for GitHub and it is also a server with a URL
+
+When we build websites we host it on a computer
+- Local: laptop, etc
+- public: public domain
+Information is contained in folders (type of organization)
+
+A Browser is a powerful tool to illustrate text, images, etc.
+- Turning a Browser into a Notepad file (not able to save)
+
+Introducing a pathway using a Browser
+- In the magic bar, "C:\" (backslash for going into the computer)
+- Take a few minutes to explore you hard drive
+- does your computer have any other physical or virtual drives (called drive letters)
+- Copy an example pathway using File Explorer
+
+Introducing the Internet
+- Open a Browser and search for your favorite company (Cisco)
+- copy the domain name, first part of URL after wwww
+- note, 4.4.4.4 & 8.8.8.8 are domain name servers (are able to Google these)
+
+Introducing Networking Tools and the CMD Window
+- use nslookup to search for the IP address of the domain name (points to a physical machine, server, located somewhere in the world)
+- use ping to establish communication
+- use tracert to find the physical location
+
+Find your favorite website's physical location
+
+Introducing a package and how GitHub Desktop communicates with GitHub
+- look up your MAC Address (ipconfig /all) (i.e. digital finger print for every computer, actually NIC Card)
+- Socket: port & IP address (summarized the program you are using and the logical address of your computer)
+- When you save info to GitHub Desktop, it is combined with your passwords and repository names (folders in the GitHub Server to organize different accounts, repositories, and accounts)
+
+All information sent by computers has stacked information and it is used by various switches and routers so different computers (servers or clients) can talk with each other. 
+
+The information is only a part of the entire file. Thus, different parts add to reform the entire file.
 
 ---
 
-
+When explaining how information travels through the Internet, use a layered metaphor for adding the socket
+- Add IP Address, keep origonating with port
+- A router will know how to get to the intended IP (might have a choice of 3 routers, will choose the least busy)
